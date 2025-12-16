@@ -134,7 +134,7 @@ public class CheckOut extends AppCompatActivity {
         public int getItemCount() {
             return cartList.size();
         }
-
+//nadoda
         class CartHolder extends RecyclerView.ViewHolder {
             ImageView imgItem;
             TextView tvName;
